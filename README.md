@@ -22,9 +22,7 @@
 
 ---
 
-<details>
-<summary><b>📌 Projects</b></summary>
-<div markdown="1">
+## 📌 Projects
 
 | 출시 | 프로젝트 | 설명 | 링크 |
 |:--:|:--|:--|:--:|
@@ -42,19 +40,11 @@
 - [🧠 Judge Server (코드 채점기)](https://github.com/Kraftonjungle-MyWeapon/Codeground-Judge-Server)  
   도커 컨테이너 격리 실행 기반 채점 시스템, 테스트케이스 검증 로직, I/O sandbox 구현
 
-</div>
-</details>
-
 ---
 
-<details>
-<summary><b>📌 Activity</b></summary>
-<div markdown="1">
+## 📌 Activity
 
 | 기간 | 활동 | 설명 |
 |:--:|:--|:--|
 | 2023.04 ~ 2023.09 | 💻 멀티캠퍼스 SW교육 수료 | Java, Spring, DB, AWS 기반 실전 프로젝트 수행 |
 | 2025.03 ~ 2025.07 | 🐲 크래프톤 정글 8기 | [나만무] Codeground 백엔드 및 인프라 개발 담당. FastAPI + Redis + PostgreSQL, Glicko-2 직접 구현, ECS 기반 배포 |
-
-</div>
-</details>
