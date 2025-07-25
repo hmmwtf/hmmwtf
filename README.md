@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/instagram-d62976?style=badge&logo=Instagram&logoColor=white"/>
   </a>
   <a href="https://solved.ac/profile/kjh91207">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zkdls0785&theme=dark"/>
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kjh91207&theme=dark"/>
   </a>
 </div>
 
