@@ -37,7 +37,7 @@
   REST API, MMR(Glicko-2), 실시간 WebSocket 매칭 서버, Docker 기반 배포
 - [🎨 Frontend (React, Zustand, WebRTC)](https://github.com/Kraftonjungle-MyWeapon/Codeground-FE)  
   실시간 UI 구성, 코드 에디터, 경기 로비/랭킹/매칭 화면 구현
-- [🧠 Judge Server (코드 채점기)](https://github.com/Kraftonjungle-MyWeapon/Codeground-Judge-Server)  
+- [🧠 Judge Server (코드 채점기)](https://github.com/Kraftonjungle-MyWeapon/codeground-online-judge)  
   도커 컨테이너 격리 실행 기반 채점 시스템, 테스트케이스 검증 로직, I/O sandbox 구현
 
 ---
