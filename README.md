@@ -28,7 +28,6 @@
 |:--:|:--|:--|:--:|
 | 2023.07 | 🏀 MatchCode | 운동 시설 예약 및 사용자 매칭 플랫폼. Kakao Map API 기반 위치 검색, 리뷰 기능, Spring Boot 기반 REST API 서버와 AWS 배포 | [GitHub](https://github.com/hmmwtf/matchcode) |
 | 2025.03 | 🧘 WorkoutChillGuy | 운동 스케줄 및 커뮤니티 플랫폼. JWT 기반 인증, 게시판 CRUD, SSR/CSR 하이브리드 아키텍처 적용 | [GitHub](https://github.com/hmmwtf/workoutchillguy) |
-| 2025.04 | 🎯 C-Malloc & C-RBTree | C 언어로 구현한 사용자 메모리 할당 시스템 및 레드블랙 트리 자료구조 구현 프로젝트 | [GitHub](https://github.com/hmmwtf/C-Malloc) |
 | 2025.07 | 💻 Codeground | 실시간 1:1 코딩 배틀 플랫폼. Glicko-2 MMR 기반 매칭 시스템, WebRTC 기반 실시간 통신, 치팅 방지 기능 포함 | 아래 레포 참조 ↓ |
 
 #### 🔗 Codeground Repositories
