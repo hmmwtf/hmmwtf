@@ -2,29 +2,24 @@
 
 AI Engineer @ FutureGate · 2026.02 – Present
 
-[Blog](https://whatissoimportantyou.tistory.com) · [LinkedIn](https://www.linkedin.com/in/hmmwtf) · [solved.ac](https://solved.ac/profile/kjh91207)
+[Techblog](https://whatissoimportantyou.tistory.com) · [LinkedIn](https://www.linkedin.com/in/hmmwtf)
 
 ## Projects
 
-### [open-kitchen-cli](https://github.com/hmmwtf/open-kitchen-cli)
+| 기간 | 프로젝트 | 설명 | 링크 |
+|:--:|:--|:--|:--:|
+| — | **open-kitchen-cli** | AI 코딩 작업을 모드별로 실행하고 실행 기록을 확인하는 CLI | [GitHub](https://github.com/hmmwtf/open-kitchen-cli) |
+| 2025.07 | **Codeground** | 실시간 1:1 알고리즘 배틀. Glicko-2 레이팅, WebRTC 화면 공유 | [Repositories](#codeground-repositories) |
+| 2025.03 | **WorkoutChillGuy** | 운동 커뮤니티. JWT 인증, SSR/CSR | [GitHub](https://github.com/hmmwtf/workoutchillguy) |
+| 2023.07 | **MatchCode** | 스포츠시설 예약·매칭. Spring Boot, Kakao Map API, AWS | [GitHub](https://github.com/hmmwtf/matchcode) |
 
-AI 코딩 작업을 모드별로 실행하고 실행 기록을 확인하는 CLI.
+### Codeground Repositories
 
-### Codeground
-
-실시간 1:1 알고리즘 배틀 서비스. Glicko-2 레이팅, WebRTC 화면 공유, Docker 격리 채점을 적용했습니다.
-
-FastAPI · PostgreSQL · Redis · WebSocket
-
-[Backend](https://github.com/Kraftonjungle-MyWeapon/Codeground-BE) · [Frontend](https://github.com/Kraftonjungle-MyWeapon/Codeground-FE) · [Judge](https://github.com/Kraftonjungle-MyWeapon/codeground-online-judge)
-
-### [WorkoutChillGuy](https://github.com/hmmwtf/workoutchillguy)
-
-JWT 인증과 SSR/CSR을 적용한 운동 커뮤니티.
-
-### [MatchCode](https://github.com/hmmwtf/matchcode)
-
-스포츠시설 예약·매칭 서비스. Spring Boot, Kakao Map API를 사용하고 AWS에 배포했습니다.
+| Repository | 설명 |
+|:--|:--|
+| [Backend](https://github.com/Kraftonjungle-MyWeapon/Codeground-BE) | FastAPI, PostgreSQL, Redis, WebSocket 매칭 서버 |
+| [Frontend](https://github.com/Kraftonjungle-MyWeapon/Codeground-FE) | React, Zustand, WebRTC 실시간 UI |
+| [Judge](https://github.com/Kraftonjungle-MyWeapon/codeground-online-judge) | Docker 격리 채점, I/O Sandbox |
 
 ## Stack
 
