@@ -14,7 +14,8 @@ AI Engineer @ FutureGate · 2026.02 – Present
 | [2025.03](https://github.com/craftonjungle8/workoutchillguy-BE-/commit/f1d30588eec0fe0b793b7f7260fd41e1f651aae8) | **WorkoutChillGuy** | 운동 커뮤니티. JWT 인증, SSR/CSR | [GitHub](https://github.com/hmmwtf/workoutchillguy) |
 | [2023.08](https://github.com/Keitiankor/matchcode/commit/e17ad8a3f83e94325df0ebc70120a88acae6dd18) | **MatchCode** | 스포츠시설 예약·매칭. Spring Boot, Kakao Map API, AWS | [GitHub](https://github.com/hmmwtf/matchcode) |
 
-시작 월은 저장소의 첫 커밋 기준입니다.
+시작 월은 저장소의 첫 커밋 기준입니다.  
+토스 링크는 모바일에서 접속해 주세요.
 
 ### Codeground Repositories
 
