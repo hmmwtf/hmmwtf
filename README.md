@@ -6,12 +6,15 @@ AI Engineer @ FutureGate · 2026.02 – Present
 
 ## Projects
 
-| 기간 | 프로젝트 | 설명 | 링크 |
+| 시작 | 프로젝트 | 설명 | 링크 |
 |:--:|:--|:--|:--:|
-| — | **open-kitchen-cli** | AI 코딩 작업을 모드별로 실행하고 실행 기록을 확인하는 CLI | [GitHub](https://github.com/hmmwtf/open-kitchen-cli) |
-| 2025.07 | **Codeground** | 실시간 1:1 알고리즘 배틀. Glicko-2 레이팅, WebRTC 화면 공유 | [Repositories](#codeground-repositories) |
-| 2025.03 | **WorkoutChillGuy** | 운동 커뮤니티. JWT 인증, SSR/CSR | [GitHub](https://github.com/hmmwtf/workoutchillguy) |
-| 2023.07 | **MatchCode** | 스포츠시설 예약·매칭. Spring Boot, Kakao Map API, AWS | [GitHub](https://github.com/hmmwtf/matchcode) |
+| 2026.06 | **연차 어따 쓰지?** | 연차 일정 추천·여행지 뽑기. 토스 미니앱 출시, Cloudflare Pages 웹 배포 | [토스](https://minion.toss.im/zhtzxjQ5) · [웹](https://yeoncha-run.pages.dev/) |
+| [2026.06](https://github.com/hmmwtf/open-kitchen-cli/commit/30f4e630d56b8538f7b5367a18f23c6ace0b1776) | **open-kitchen-cli** | AI 코딩 작업을 모드별로 실행하고 실행 기록을 확인하는 CLI | [GitHub](https://github.com/hmmwtf/open-kitchen-cli) |
+| [2025.06](https://github.com/Kraftonjungle-MyWeapon/Codeground-BE/commit/892f95d474bccef5391ee131e29dee4bade931bb) | **Codeground** | 실시간 1:1 알고리즘 배틀. Glicko-2 레이팅, WebRTC 화면 공유 | [Repositories](#codeground-repositories) |
+| [2025.03](https://github.com/craftonjungle8/workoutchillguy-BE-/commit/f1d30588eec0fe0b793b7f7260fd41e1f651aae8) | **WorkoutChillGuy** | 운동 커뮤니티. JWT 인증, SSR/CSR | [GitHub](https://github.com/hmmwtf/workoutchillguy) |
+| [2023.08](https://github.com/Keitiankor/matchcode/commit/e17ad8a3f83e94325df0ebc70120a88acae6dd18) | **MatchCode** | 스포츠시설 예약·매칭. Spring Boot, Kakao Map API, AWS | [GitHub](https://github.com/hmmwtf/matchcode) |
+
+시작 월은 저장소의 첫 커밋 기준입니다.
 
 ### Codeground Repositories
 
